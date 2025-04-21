@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b31f4ebe0d19edc3",
+        "id": "3cf1b560e3b048b9",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1d250fa689c76f",
+            "id": "4bfc323d16dc3652",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "obsidian-note/.obsidian/plugins/obsidian-git/styles.css",
-                "bFile": "obsidian-note/.obsidian/plugins/obsidian-git/styles.css",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: styles.css"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cf1d250fa689c76f",
+  "active": "9566c15fb53a0e2d",
   "lastOpenFiles": [
     "未命名.canvas",
     "欢迎.md"
