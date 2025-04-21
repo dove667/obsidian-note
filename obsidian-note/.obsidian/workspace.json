@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf1b560e3b048b9",
+        "id": "7ad270d7b1486bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "4bfc323d16dc3652",
+            "id": "d417160bc2d39d57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Python"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Python 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Python 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Python 的大纲"
             }
           },
           {
@@ -173,9 +180,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9566c15fb53a0e2d",
+  "active": "d417160bc2d39d57",
   "lastOpenFiles": [
+    "git & GitHub.md",
+    "Mathmatical logic/Lec3.PL syntax.md",
+    "Hugging Face/Hugging Face.md",
+    "Mathmatical logic/Mathmatical logic.md",
+    "Hugging Face/NLP course.md",
+    "DSA/DSAA.md",
+    "DSA/Analysis of Algorithms.md",
+    "科研论文思路整理/科研论文思路整理.md",
+    "DSA/算法设计与分析 pkU.md",
+    "Python.md",
+    "科研论文思路整理/LoRA.md",
+    "Notion/IDEA.md",
+    "Notion/从电脑桌面端开始吧！.md",
+    "图片/git原理.png",
+    "图片/image 20.png",
+    "图片/image 21.png",
+    "person.png",
+    "Sohrab.png",
+    "Untitled.png",
+    "Untitled 1.png",
+    "图片/image 2 2.png",
+    "图片/image 2.png",
+    "图片/image 1 3.png",
+    "欢迎.md",
     "未命名.canvas",
-    "欢迎.md"
+    "图片",
+    "Notion/Classroom Home/Course Schedule/Week 7.md",
+    "Notion/Classroom Home/Course Schedule/Week 5.md",
+    "Notion/Classroom Home/Course Schedule/Week 11.md",
+    "Notion/Classroom Home/Course Schedule/Week 1.md",
+    "Notion/Classroom Home/Course Schedule/Throughout.md",
+    "Notion/Classroom Home/Course Schedule/Week 10.md",
+    "Notion/Classroom Home/Course Schedule/Week 3.md",
+    "Notion/Classroom Home/Course Schedule/Week 6.md",
+    "Notion/Classroom Home/Course Schedule/Week 12.md",
+    "Notion/Classroom Home/Course Schedule/Week 2.md",
+    "Notion/Classroom Home/Course Schedule/Week 4.md",
+    "Notion/Classroom Home/Course Schedule/Week 8.md",
+    "科研论文思路整理/文献",
+    "Mathmatical logic/Lec2.preliminaries",
+    "Mathmatical logic/Lec1.intro",
+    "Hugging Face/NLP course",
+    "Deep Learning/Attention & Transformer",
+    "Deep Learning/RNNs",
+    "Notion/Classroom Home/Course Schedule",
+    "Notion/Classroom Home/Class Directory",
+    "Notion/Group Project Planner/Tasks/Review research results"
   ]
 }
